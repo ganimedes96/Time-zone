@@ -40,7 +40,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/ganimedes96/Time-zone && cd RocketHelp
+$ git clone https://github.com/ganimedes96/Time-zone && cd Time-zone
 ```
 
 **Follow the steps below to install the required dependencies**
