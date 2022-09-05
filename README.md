@@ -4,5 +4,5 @@
 </h1>
 
 <div align="center">
-    <img alt="Timer-zone"  src="src/assets/timer.jpg" width="250px"/>
+    <img alt="Timer-zone"  src="src/assets/timer.jpg" width="500px"/>
 </div>
